@@ -6,7 +6,7 @@
 	cnode = 8--Node ID(必改项)
 	--(让芯片连接互联网)
 	wifiPoint = "YMS_805_1"--本地路由器热点名
-	wifiPwd = "yms#0805"--本地路由器密码
+	wifiPwd = "yms*****"--本地路由器密码
     
 	wifiok = 0;
 	tmr.stop(0);
